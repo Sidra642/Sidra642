@@ -23,15 +23,20 @@ My goal is to pursue graduate studies and contribute to research in computer eng
 - **Architecture & Interfaces:** RISC-V, AXI, UART, SPI, Zynq SoCs
 - **EDA & Development Tools:** AMD Vivado, Cadence Genus, Cadence Innovus, Git
 
-## 🚀 Selected Engineering Projects
 
-- **[RISC-V Single-Cycle Processor](https://github.com/Sidra642/RISC-V-Single-Cycle-Processor)**  
-  RTL implementation focused on RISC-V processor architecture and digital design.
+## 🎓 Academic Background & Distinctions
 
-- **[Buggy-V](https://github.com/Sidra642/Buggy-V)**  
-  RISC-V-related SoC project. See the repository for implementation details and the scope of my contributions.
+**B.S. in Electrical Engineering** — Namal University, Pakistan (2025)
 
-- **[IoT Projects](https://github.com/Sidra642/IoT-Projects)**  
-  Embedded systems and IoT project work.
+**CGPA:** 3.85/4.00
 
-## 🎓 Academic
+**University Gold Medalist**
+
+
+## 🤝 Academic & Research Connections
+
+I'm interested in connecting with faculty members and research groups working on computer architecture, digital hardware design, hardware security, and efficient computing systems.
+
+LinkedIn: linkedin.com/in/sidranaveed
+
+Email: sidranaveed561@gmail.com
