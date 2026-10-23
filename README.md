@@ -1,54 +1,37 @@
-Sidra Naveed
+# Hi, I'm Sidra Naveed 👋
 
-Electrical Engineer | Computer Architecture | FPGA & Digital Design
+**Electrical Engineer | Aspiring Graduate Researcher | Computer Engineering & Digital Hardware**
 
-I'm an Electrical Engineering graduate from Namal University, Pakistan, with a strong academic background and hands-on experience in digital hardware design, FPGA-based systems, and firmware development.
+I graduated with a **B.S. in Electrical Engineering from Namal University, Pakistan, in 2025**, earning a **CGPA of 3.85/4.00 and the University Gold Medal**.
 
-I currently work as a Firmware Design Engineer at NUST. My technical interests include computer architecture, processor design, hardware verification, and secure and efficient computing systems.
+I currently work as a Firmware Design Engineer at NUST, where I gain hands-on experience with FPGA-based systems, firmware development, and hardware–software integration.
 
-I'm interested in graduate research opportunities in computer engineering, particularly in the intersection of hardware design, architecture, and hardware security.
+My goal is to pursue graduate studies and contribute to research in computer engineering, with particular interests in **computer architecture, hardware security, and efficient digital systems**.
 
-Research Interests
+## 🔬 Research Interests
 
-Computer Architecture and RISC-V Processors
+- **Computer Architecture:** RISC-V processors, pipelining, and SoC design
+- **Hardware Security:** Secure hardware architectures and cryptographic hardware
+- **Digital Design:** FPGA/ASIC implementation, RTL design, and hardware verification
+- **Hardware–Software Co-Design:** Embedded systems and FPGA-based platforms
+- **Design Verification:** SystemVerilog, UVM, assertions, and functional coverage
 
-FPGA and ASIC Design
+## 💻 Technical Skills
 
-RTL Design and Hardware Verification
+- **HDL & Verification:** Verilog, SystemVerilog, UVM
+- **Programming:** C, C++, Python
+- **Architecture & Interfaces:** RISC-V, AXI, UART, SPI, Zynq SoCs
+- **EDA & Development Tools:** AMD Vivado, Cadence Genus, Cadence Innovus, Git
 
-Embedded Systems and Hardware–Software Co-Design
+## 🚀 Selected Engineering Projects
 
-Hardware Security and Cryptographic Hardware
+- **[RISC-V Single-Cycle Processor](https://github.com/Sidra642/RISC-V-Single-Cycle-Processor)**  
+  RTL implementation focused on RISC-V processor architecture and digital design.
 
-### 💻 Technologies & Tools
+- **[Buggy-V](https://github.com/Sidra642/Buggy-V)**  
+  RISC-V-related SoC project. See the repository for implementation details and the scope of my contributions.
 
-**Hardware & Architecture:** FPGA, Zynq SoCs, RISC-V, AXI, UART, SPI
+- **[IoT Projects](https://github.com/Sidra642/IoT-Projects)**  
+  Embedded systems and IoT project work.
 
-**HDL & Verification:** Verilog, SystemVerilog, UVM, assertions, functional coverage
-
-**Programming:** C, C++, Python
-
-**Design & Development Tools:** Vivado, Cadence Genus, Cadence Innovus, Git
-
-### 🚀 Featured Projects
-
-I'm building a collection of projects covering digital design, processor architecture, embedded systems, and hardware verification.
-
-- **RISC-V Processor Design** — RTL implementation and processor pipeline concepts.
-- **RISC-V SoC Integration** — Memory-mapped peripherals and hardware–software communication.
-- **FPGA & Embedded Systems** — Firmware development, peripheral interfaces, and system validation.
-
-*Project descriptions and links will be updated as each repository is documented.*
-
-### 🎓 Academic Background
-
-- B.S. in Electrical Engineering — Namal University
-- CGPA: 3.85/4.00
-- University Gold Medalist
-
-### 🤝 Connect With Me
-
-- LinkedIn: linkedin.com/in/sidranaveed
-- Email: sidranaveed561@gmail.com
-
-I'm interested in research and engineering opportunities involving computer architecture, FPGA/ASIC design, hardware security, and reliable embedded systems.
+## 🎓 Academic
