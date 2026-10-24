@@ -4,7 +4,7 @@
 
 I graduated with a **B.S. in Electrical Engineering from Namal University, Pakistan, in 2025**, earning a **CGPA of 3.85/4.00 and the University Gold Medal**.
 
-I currently work as a Firmware Design Engineer at NUST, where I gain hands-on experience with FPGA-based systems, firmware development, and hardware–software integration.
+I worked as a Firmware Design Engineer at NUST, where I gained hands-on experience with FPGA-based systems, firmware development, and hardware–software integration.
 
 My goal is to pursue graduate studies and contribute to research in computer engineering, with particular interests in **computer architecture, hardware security, and efficient digital systems**.
 
